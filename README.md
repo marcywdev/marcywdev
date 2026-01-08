@@ -4,8 +4,10 @@
 
 Building better web experiences across agencies, startups, and indie projects.
 
+[![Portfolio](https://img.shields.io/badge/marcywilliams.dev-0c0641?style=for-the-badge&logo=safari&logoColor=e939f1)](https://marcywilliams.dev)
+
 <p>
-  <img src="https://marcywdev-readme-stats.vercel.app/api?username=marcywdev&show_icons=true&count_private=true&bg_color=0c0641&title_color=e939f1&text_color=ffffff&icon_color=e939f1&border_color=1a0f5a" height="165" alt="GitHub Stats">
+  <img src="https://marcywdev-readme-stats.vercel.app/api?username=marcywdev&show_icons=true&include_all_commits=true&hide=issues,contribs&show=prs_merged&custom_title=Stats&bg_color=0c0641&title_color=e939f1&text_color=ffffff&icon_color=e939f1&border_color=1a0f5a&v=4" height="165" alt="GitHub Stats">
   <img src="https://marcywdev-readme-stats.vercel.app/api/top-langs/?username=marcywdev&layout=compact&bg_color=0c0641&title_color=e939f1&text_color=ffffff&border_color=1a0f5a" height="165" alt="Top Languages">
 </p>
 
@@ -27,8 +29,9 @@ Building better web experiences across agencies, startups, and indie projects.
 
 ### CMS & Backend
 
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=flat&logo=sanity&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=flat&logo=drupal&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white)
@@ -50,5 +53,3 @@ Building better web experiences across agencies, startups, and indie projects.
 ![WP Engine](https://img.shields.io/badge/WP_Engine-0ECAD4?style=flat&logo=wpengine&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
-
-<img src="https://github.com/marcywdev/marcywdev/blob/main/assets/divider.svg" width="100%" height="2" alt="">
