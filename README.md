@@ -2,7 +2,7 @@
 
 **Solutions Architect** · **Frontend Engineer** · **Design Systems Enthusiast**
 
-Building better web experiences across agencies, startups, and indie projects.
+Building better web experiences across agencies, small businesses, and indie projects.
 
 [![Portfolio](https://img.shields.io/badge/marcywilliams.dev-0c0641?style=for-the-badge&logo=safari&logoColor=e939f1)](https://marcywilliams.dev)
 
