@@ -7,7 +7,7 @@ Building better web experiences across agencies, startups, and indie projects.
 [![Portfolio](https://img.shields.io/badge/marcywilliams.dev-0c0641?style=for-the-badge&logo=safari&logoColor=e939f1)](https://marcywilliams.dev)
 
 <p>
-  <img src="https://marcywdev-readme-stats.vercel.app/api?username=marcywdev&show_icons=true&include_all_commits=true&hide=issues,contribs&show=prs_merged&custom_title=Stats&bg_color=0c0641&title_color=e939f1&text_color=ffffff&icon_color=e939f1&border_color=1a0f5a&v=4" height="165" alt="GitHub Stats">
+  <img src="https://marcywdev-readme-stats.vercel.app/api?username=marcywdev&show_icons=true&hide=issues,contribs,commits&show=prs_merged&custom_title=Stats&bg_color=0c0641&title_color=e939f1&text_color=ffffff&icon_color=e939f1&border_color=1a0f5a&v=5" height="165" alt="GitHub Stats">
   <img src="https://marcywdev-readme-stats.vercel.app/api/top-langs/?username=marcywdev&layout=compact&bg_color=0c0641&title_color=e939f1&text_color=ffffff&border_color=1a0f5a" height="165" alt="Top Languages">
 </p>
 
