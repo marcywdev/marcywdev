@@ -1,6 +1,6 @@
 # Marcy Williams
 
-**Solutions Architect** · **Frontend Engineer** · **Design Systems Enthusiast**
+**Solutions Architect** · **Web Developer** · **Design Systems Enthusiast**
 
 Building better web experiences across agencies, small businesses, and indie projects.
 
